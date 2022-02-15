@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Analista de Suporte para sistemas de gerenciamento de laboratórios de analises clínicas.
 - 🌱 Estudando JavaScript
-- 💬 Contate-me no email: aleemelo@hotmail.com.br
+- 💬 Contate-me no email: correaale.393@gmail.com
 
 <div align="center">
   <a href="https://github.com/Ale-Correa">
