@@ -1,7 +1,7 @@
 ### Olá, eu Sou o Alexandre Corrêa
 
-- 🔭 Hoje trabalho com Analista de Suporte para sistemas de gerenciamento de laboratórios de analises clínicas.
-- 🌱 Estudando JavaScript
+- 🔭 Analista de Sistemas há mais de 5 anos atuando na área da saúde com ênfase em Sistemas de Gerenciamento Laboratorial (LIS).
+- 🌱 Cursando Engenharia de Software
 - 💬 Contate-me no email: aleemelo@hotmail.com.br
 
 <div align="center">
