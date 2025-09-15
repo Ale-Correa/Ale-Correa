@@ -1,8 +1,48 @@
-### Olá, eu Sou o Alexandre Corrêa
+👋 Olá, eu sou o Alexandre
+🚀 Sobre mim
 
-- 🔭 Analista de Sistemas há mais de 5 anos atuando na área da saúde com ênfase em Sistemas de Gerenciamento Laboratorial (LIS).
-- 🌱 Cursando Engenharia de Software
-- 💬 Contate-me no email: aleemelo@hotmail.com.br
+Sou profissional de Tecnologia da Informação com mais de 10 anos de experiência, atuando em diferentes áreas, desde grandes projetos de migração até especialização em sistemas laboratoriais e integração de sistemas hospitalares.
+
+Minha trajetória combina gestão de equipes, implantações de sistemas críticos e integrações complexas, sempre com foco em entregar soluções robustas e de alto impacto para o negócio.
+
+💼 Experiência
+
+Migração Unibanco → Itaú
+
+Atuei no projeto de migração das agências do antigo Unibanco para o Itaú.
+
+Responsável pela contratação de técnicos de telecomunicação.
+
+Coordenação e orientação da equipe em campo, seguindo os escopos definidos pela equipe de TI do banco.
+
+Especialista em Sistema LIS (últimos 8 anos)
+
+Especialista em configuração de interfaces de equipamentos de análises clínicas.
+
+Experiência em implantação de sistemas LISNet e integração com equipamentos laboratoriais.
+
+Foco em garantir a comunicação eficiente entre sistemas e dispositivos médicos.
+
+Integração de Sistemas (atualmente)
+
+Atuação como especialista em integração entre sistemas LIS e sistemas hospitalares.
+
+Configuração de interfaces e desenvolvimento de novas funcionalidades.
+
+Trabalho em parceria com equipes de desenvolvimento para expandir e otimizar integrações.
+
+🛠️ Habilidades
+
+Integração de sistemas LIS e hospitalares
+
+Configuração e implantação de LISNet
+
+Interfaces de equipamentos laboratoriais
+
+Coordenação de equipes técnicas
+
+Desenvolvimento e suporte em integrações
+
 
 <div align="center">
   <a href="https://github.com/Ale-Correa">
